@@ -4,12 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3498DB&center=true&vCenter=true&width=560&lines=Robotics+%26+Embedded+Systems+Engineer;Computer+Vision+%2B+AI+Developer;Analog+Communications+Instructor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3498DB&center=true&vCenter=true&width=560&lines=Robotics+%26+Embedded+Systems+Engineer;Computer+Vision+%2B+AI+Developer;Analog+Communications+Instructor" alt="Typing SVG" />
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Ahm141&label=Profile+Views&color=3498db&style=flat-square" alt="visitor count"/>
-<img src="https://img.shields.io/github/followers/Ahm141?label=Followers&style=flat-square&color=3498db" alt="followers"/>
 
 </div>
 
@@ -28,7 +27,7 @@ Third-year Computer Engineering student focused on robotics, computer vision, AI
 ### Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,opencv,tensorflow,pytorch,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,opencv,tensorflow,pytorch,git,github,linux,vscode" />
 </div>
 
 ---
@@ -47,12 +46,12 @@ Python-based AI agent project.
 <br>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahm141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahm141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ahm141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahm141&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=Ahm141&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 </details>
