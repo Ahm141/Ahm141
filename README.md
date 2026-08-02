@@ -1,57 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ahmed Raed</h1>
-<h3 align="center">Computer Engineering Student | Robotics & AI Enthusiast | Analog Comms Instructor</h3>
+# Ahmed Raed
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Robotics+%26+Embedded+Systems;Computer+Vision+%2B+AI;Building+real+projects%2C+not+just+demos" alt="Typing SVG" />
-</p>
+**Computer Engineering Student · Robotics & AI · Analog Communications Instructor**
 
 ---
 
-### 🚀 About Me
+## About
 
-- 🎓 Third-year Computer Engineering student
-- 🧑‍🏫 Instructor for **Analog Communications** at my university
-- 🤖 Focused on **Robotics, Computer Vision, AI Development & Embedded Systems**
-- 🔭 Currently working on AI-powered projects and research
-- 🌱 Always learning — mastering AI-assisted development
-- ⚡ Fun fact: I like building things that move, see, and think
+Third-year Computer Engineering student with a focus on robotics, computer vision, AI development, and embedded systems. Currently serving as an instructor for the Analog Communications course at my university.
+
+- Instructor — Analog Communications, University Course
+- Focus areas — Robotics · Computer Vision · AI Development · Embedded Systems
+- Working in both Arabic and English
 
 ---
 
-### 🛠️ Tech Stack
+## Skills
+
+`Python` `C` `C++` `Arduino` `Raspberry Pi` `OpenCV` `TensorFlow` `PyTorch` `Git`
+
+---
+
+## Featured Project
+
+**[First-AI-agent](https://github.com/Ahm141/First-AI-agent)**
+Python-based AI agent project.
+
+---
+
+## GitHub Overview
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,opencv,tensorflow,pytorch,git,github,linux,vscode" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm141&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=24292f&bg_color=ffffff" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahm141&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm141&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahm141&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Project
-
-**[First-AI-agent](https://github.com/Ahm141/First-AI-agent)** — Python-based AI agent project
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <!-- Add your links here, e.g.: -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a> -->
-</p>
-
----
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Ahm141">Ahm141</a></i></p>
+<p><i>Profile: <a href="https://github.com/Ahm141">github.com/Ahm141</a></i></p>
