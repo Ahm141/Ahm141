@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3498DB&center=true&vCenter=true&width=560&lines=Robotics+%26+Embedded+Systems+Engineer;Computer+Vision+%2B+AI+Developer;Analog+Communications+Instructor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3498DB&center=true&vCenter=true&width=560&lines=Robotics+%26+Embedded+Systems+Engineer;Computer+Vision+%2B+AI+Developer;" alt="Typing SVG" />
 
 <br><br>
 
