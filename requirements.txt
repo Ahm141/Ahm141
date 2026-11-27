@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-python-dotenv
-langchain-core
-livekit-api
-livekit-agents>=1.9
-livekit-plugins-google>=1.9
-google-genai>=3.6
