@@ -31,10 +31,16 @@ I'm also an instructor for an Analog Communications course at my university, so 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Also working with:** PIC microcontrollers, OpenAI Agents SDK, LiveKit, Gemini, prompt engineering
+**Also working with:** ROS, CNNs, Reinforcement Learning, PIC microcontrollers, OpenAI Agents SDK, LiveKit, Gemini, prompt engineering
 
 ## 🎓 Certifications
 
+- **Fundamentals in Robotics and Artificial Intelligence** – Summer Training Program (Jul 1 – Aug 1, 2025), **Aljazari**, the first registered company in Iraq specialized in Robotics, AI, and Automation
+  - Electronic components and their applications in robotic systems
+  - Embedded control using microcontrollers and microcomputers
+  - Robotics hardware, software development, and practical ROS (Robot Operating System) implementation
+  - AI solutions with Large Language Models (LLMs), autonomous AI agents, and structured knowledge bases
+  - AI in robotics: CNNs for visual perception and Reinforcement Learning for adaptive control
 - **1 Million Prompters** – AI Prompt Engineering, Dubai Centre for Artificial Intelligence / Dubai Future Foundation
 
 ## 🌱 My Goals
