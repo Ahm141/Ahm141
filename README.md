@@ -1,4 +1,4 @@
-# سكرتيرة نور (صوت LiveKit)
+# سكرتيرة حبوشي (صوت LiveKit)
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
